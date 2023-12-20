@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: #BF3131;
+    font-size: 18px;
+}
+
+.list-item {
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    float: right;
+    padding-right: 100px;
+    padding-top: 30px;
+}
+
+.list-item a {
+    text-decoration: none;
+    color: white;
+}
+
+.list-icon {
+    display: inline;
+    padding-left: 100px;
+}
+
+.list-icon img{
+    width: 30px;
+    padding-top: 13px;
+}
+
+.header {
+    background-color: #F3EDC8;
+    height: 400px;
+    font-size: 23px;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
+.flex {
+    display: flex;
+    padding: 50px;
+}
+
+.ck-1 {
+    width: 30%;
+}
+
+.ck-2 {
+    width: 70%;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.button1 {
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #BF3131;
+    border-radius: 25px;
+    font-size: 25px;
+    padding: 15px;
+    margin: 30px;
+    color: white;
+}
+
+.button2 {
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #BF3131;
+    border-radius: 25px;
+    font-size: 25px;
+    padding: 15px;
+    margin: 30px;
+    color: white;
+}
+
+.pengertian {
+    background-color: #EAD196;
+    padding: 100px;
+    color: black;
+}
+
+.text h2 {
+    text-align: center;
+    margin-bottom: 5px;
+    font-size: 40px;
+}
+
+.text p {
+    padding-top: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-size: 29px;
+}
+
+.svg {
+    max-width: 50%;
+}
+
+.svg img {
+    max-width: 500px;
+    margin-right: 50px;
+}
+
+.keunggulan {
+    background-color: #F3EDC8;
+    padding: 50px;
+}
+
+.judul {
+    font-size: 25px;
+    text-align: center;
+}
+
+.plus, .prospek, .pkl{
+    margin-top: 100px;
+}
+
+.kepala img{
+    max-width: 500px;
+}
+
+.kepala, .kaka {
+    background-color: #EAD196;
+    justify-content: center;
+}
+
+.kepsek {
+    max-width: 50%;
+}
+
+.kepsek, .kaprok {
+    background-color: #BF3131;
+    border-radius: 30%;
+    border-style: groove;
+    z-index: 1;
+}
+
+.kaprok {
+    margin-right: 150px;
+}
+
+.name {
+    font-size: 25px;
+    background-color: #F3EDC8;
+    padding: 10px;
+    border-radius: 20px;
+    z-index: -1;
+    margin-top: -22px;
+    border-style: double;
+    border-color: #EA906C;
+}
+
+.kpla h3{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+}
+
+.kpla {
+    text-align: center;
+    padding-top: 50px;
+}
