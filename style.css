@@ -81,6 +81,17 @@
     color: white;
 }
 
+.button {
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #BF3131;
+    border-radius: 25px;
+    font-size: 25px;
+    padding: 15px;
+    color: white;
+    margin-left: 600px;
+}
+
 .pengertian {
     background-color: #EAD196;
     padding: 100px;
@@ -98,6 +109,7 @@
     padding-left: 90px;
     padding-right: 90px;
     font-size: 29px;
+    padding-bottom: 30px;
 }
 
 .svg {
@@ -120,7 +132,15 @@
 }
 
 .plus, .prospek, .pkl{
-    margin-top: 100px;
+    padding-top: 100px;
+}
+
+.plus, .pkl {
+    background-color: #F3EDC8;
+}
+
+.prospek {
+    background-color: #EAD196;
 }
 
 .kepala img{
@@ -167,4 +187,46 @@
 .kpla {
     text-align: center;
     padding-top: 50px;
+}
+
+
+
+
+
+footer {
+    background-color: #BF3131;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.copyright {
+    font-size: 30px;
+    color: white;
+}
+
+.link a{
+    font-size: 25px;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    margin-right: 30px;
+}
+
+.link {
+    padding-top: 30px;
+    text-align: end;
+    margin-right: 30px;
+}
+
+.link ul li {
+    display: inline;
+}
+
+.jdul {
+    font-size: 30px;
+    margin: 50px;
+}
+
+.guru {
+    padding-bottom: 200px;
 }
