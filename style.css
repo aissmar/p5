@@ -5,7 +5,7 @@
 }
 
 .navbar {
-    background-color: #BF3131;
+    background-color: #c13e3e;
     font-size: 18px;
 }
 
@@ -163,6 +163,8 @@
 
 .prospek {
     background-color: #EAD196;
+    margin-left: -50px;
+    margin-right: -50px;
 }
 
 .kepala img{
@@ -215,10 +217,6 @@
 .jdul {
     font-size: 30px;
     margin: 50px;
-}
-
-.guru {
-    padding-bottom: 200px;
 }
 
 .mapel {
@@ -278,13 +276,108 @@
 }
 
 .maps {
+    background-color: #F3EDC8;
     padding: 100px;
     justify-content: center;
+}
+
+.awal {
+    padding-bottom: 226px;
+    background-image: url(guru.jpg);
+    background-size: contain;
+    margin-top: -50px;
+    color: white;
+}
+
+.awal .jdul {
+    text-align: center;
+    font-size: 45px;
+    padding-top: 300px;
+    text-shadow: 0 0 10px black;
+}
+
+.jdul-g {
+    font-size: 35px;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+.cl-10 {
+    background-color: #EAD196;
+}
+
+.cl-11 {
     background-color: #F3EDC8;
 }
 
+.cl-12 {
+    background-color: #EAD196;
+    padding-bottom: 50px;
+}
+
+.awal2 {
+    padding-bottom: 300px;
+    background-image: url(galeri.jpg);
+    margin-top: -50px;
+    color: white;
+}
+
+.awal2 .jdul {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 300px;
+    text-shadow: 0 0 10px black;
+}
+
+.galeri {
+    padding: 100px;
+    background-color: #F3EDC8;
+}
+
+.gler {
+    justify-content: center;
+}
+
+.simply-card img {
+    width: 400px;
+    height: 257px;
+    border-radius: 30px;
+}
+
+.simply-card {
+    padding: 8px;
+    background-color: #BF3131;
+    border-radius: 30px;
+    margin-right: 80px;
+}
+
+.body {
+    background-color: #EAD196;
+}
+
+.eskul  {
+    background-color: #EAD196;
+    padding: 60px;
+}
 
 
+.judul-card2 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-size: 28px;
+    color: white;
+}
+
+.judul {
+    font-size: 40px;
+    text-align: center;
+    padding: 60px;
+}
+
+.web {
+    margin-left: 470px;
+}
 
 
 
